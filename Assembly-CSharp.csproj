@@ -51,11 +51,13 @@
      <Compile Include="Assets\Scripts\TangentSpaceVisualizer.cs" />
      <None Include="Assets\Shaders\My Shadows.cginc" />
      <None Include="Assets\Shaders\My First Shader.shader" />
+     <None Include="Assets\Shaders\Flow.cginc" />
      <None Include="Assets\Shaders\My Lighting.cginc" />
      <None Include="Assets\Shaders\Texture Splatting.shader" />
      <None Include="Assets\Shaders\My First Lighting Shader.shader" />
      <None Include="Assets\Shaders\Deferred Fog.shader" />
      <None Include="Assets\笔记.txt" />
+     <None Include="Assets\Shaders\DistortionFlow.shader" />
      <None Include="Assets\Shaders\Textured With Detail.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
